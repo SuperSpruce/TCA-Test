@@ -30,5 +30,5 @@ function run() {
     }
     setInterval(function() {
         frame();
-    }, 1)
+    }, 10)
 }
